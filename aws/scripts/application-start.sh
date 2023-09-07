@@ -1,5 +1,5 @@
 #!/bin/bash
 set -xe
 
-# Start Tomcat, the application server.
-service tomcat start
+# Start Nginx, the application server.
+service nginx start
